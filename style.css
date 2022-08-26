@@ -1,0 +1,218 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #fdfefe;
+  margin: 0;
+}
+.page {
+  background-color: #0e6251;
+  width: 350px;
+  height: 1250px;
+}
+
+.box {
+  background-color: #eafaf1;
+  width: 100%;
+  height: 150px;
+  margin-top: -1200px;
+}
+
+img {
+  width: 220px;
+  border-radius: 50%;
+  border: 10px solid #0e6251;
+  margin: -40px 0 0 50px;
+}
+
+p1 {
+  text-align: center;
+  font-size: 40px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  letter-spacing: 12px;
+}
+
+p2 {
+  text-align: center;
+  font-size: 35px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: #0e6251;
+  letter-spacing: 10px;
+}
+p3 {
+  letter-spacing: 6px;
+  font-size: 12px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+.text {
+  text-align: center;
+  margin-top: -135px;
+  margin-left: 250px;
+}
+
+.contant {
+  width: 250px;
+  height: 30px;
+  margin-top: 40px;
+  margin-left: 50px;
+  color: #eafaf1;
+  font-size: 15px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  letter-spacing: 5px;
+}
+
+.info {
+  width: 4px;
+  height: 100px;
+}
+
+.info img {
+  width: 25px;
+  border: 0px;
+  cursor: pointer;
+  margin-bottom: 13px;
+}
+
+p4,
+p5,
+p6 {
+  font-size: 16px;
+  color: #000;
+  margin-left: 100px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.educate {
+  width: 250px;
+  height: 10px;
+  margin-top: 70px;
+  margin-left: 50px;
+  color: #eafaf1;
+  font-size: 15px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  letter-spacing: 5px;
+}
+
+.courses {
+  width: 250px;
+  height: 10px;
+  margin-top: 40px;
+  margin-left: 50px;
+  color: #eafaf1;
+  font-size: 15px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  letter-spacing: 5px;
+}
+
+p {
+  margin-left: 50px;
+  color: #000;
+  font-size: 16px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.social {
+  width: 250px;
+  height: 30px;
+  margin-top: 80px;
+  margin-left: 50px;
+  color: #eafaf1;
+  font-size: 15px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  letter-spacing: 5px;
+}
+.socials img {
+  width: 35px;
+  border: 0px;
+  cursor: pointer;
+  opacity: 0.7;
+  margin-top: 5px;
+  margin-right: -25px;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
+
+.socials img:hover {
+  background-color: aquamarine;
+}
+.profile {
+  text-align: justify;
+  margin-top: -910px;
+  margin-left: 375px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  width: 800px;
+  height: 200px;
+}
+
+p10 {
+  font-size: 20px;
+  text-align: justify;
+}
+
+.box-skills {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-top: 15px;
+  margin-left: 375px;
+  height: 100px;
+}
+
+#box-skills {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-top: -170px;
+  margin-left: 375px;
+  height: 100px;
+}
+
+#box-skills .box-skills {
+  display: inline-block;
+}
+
+.progresser {
+  width: 320px;
+  height: 10px;
+  margin-left: 10px;
+  background-color: black;
+}
+
+#progresser {
+  width: 320px;
+  height: 10px;
+  margin-left: 10px;
+  background-color: black;
+}
+
+.fav-language {
+  width: 800px;
+  height: 100px;
+  margin-left: 375px;
+  margin-top: 160px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.box-hobbies {
+  width: 800px;
+  height: 300px;
+  margin-left: 375px;
+  margin-top: 100px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.box-hobbies > .interest img {
+  border-radius: 20px;
+  border: 1px solid white;
+  width: 90px;
+  opacity: 0.5;
+}
+
+.box-hobbies > .interest img:hover {
+  opacity: 1;
+  cursor: pointer;
+  width: 80px;
+}
+
+h5 {
+  margin-top: 40px;
+  margin-left: -290px;
+  font-weight: normal;
+}
